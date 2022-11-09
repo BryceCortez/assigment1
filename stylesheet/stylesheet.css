@@ -1,0 +1,30 @@
+.h1{
+    color: rgb(78, 78, 178);
+    text-align: center;
+
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+
+.column{
+    float: left;
+    width: 100%;
+    position: absolute; left: 10px; top: 20px;
+    
+    
+}
+
+.row{
+    content: "";
+    display: table;
+    clear: both;
+    
+}
+
+.note{
+     text-align: left;
+    
+}
