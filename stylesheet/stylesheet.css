@@ -57,3 +57,29 @@ section{
 
    
 }
+
+.hold{
+    width: 460px;
+    height: 150px;
+    border-radius: 5px;
+    border: 2px solid rgb(14, 95, 181);
+    background-color:beige;
+    margin-left: 130px;
+    margin-top: 50px;
+    
+
+    
+
+}
+
+.b2{
+    position: absolute; left: 501px;
+background-color: green;
+border-radius: 10px;
+}
+
+.b3{
+    position: absolute; left: 550px;
+background-color: red;
+border-radius: 10px;
+}
