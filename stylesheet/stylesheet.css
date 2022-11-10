@@ -9,12 +9,14 @@ body{
 }
 
 
-.column{
-    float: left;
+.a1{
     width: 100%;
     position: absolute; left: 10px; top: 20px;
-    
-    
+    font-size: x-large;
+    color: cornflowerblue;
+    padding-top: 10px;
+    columns: 100px 3;
+
 }
 
 .row{
@@ -26,5 +28,32 @@ body{
 
 .note{
      text-align: left;
-    
+    margin-right: 10px;
+    font-size: large;
+}
+
+section{
+    grid-template-columns: 1/5;
+
+}
+
+.about{
+    text-align: right;
+    word-spacing: 10px;
+    color: darkblue;
+}
+
+.button{
+    background-color: gray;
+    position: absolute; left: 140px;
+    border-radius: 5px;
+}
+
+.button1{
+    background-color: aquamarine;
+   position: absolute; left: 500px;
+   border-radius: 5px;
+     text-decoration: none;
+
+   
 }
