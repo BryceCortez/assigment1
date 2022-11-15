@@ -52,7 +52,7 @@ section{
 .button1{
     background-color: aquamarine;
    /* position: absolute; left: 1440px; */
-   position: absolute; left: 510px;
+   position: absolute; left: 1440px;
    border-radius: 5px;
      text-decoration: none;
 
@@ -60,8 +60,8 @@ section{
 }
 
 .hold{
-    width: 460px;
-    height: 150px;
+    /* width: 1390px; */
+    height: 200px;
     border-radius: 5px;
     border: 2px solid rgb(14, 95, 181);
     background-color:beige;
@@ -74,14 +74,14 @@ section{
 }
 
 .b2{
-    position: absolute; left: 501px;
+    position: absolute; left: 1410px;
 background-color: green;
 border-radius: 10px;
 margin-top: 10px;
 }
 
 .b3{
-    position: absolute; left: 550px;
+    position: absolute; left: 1470px;
 background-color: red;
 border-radius: 10px;
 margin-top: 10px;
